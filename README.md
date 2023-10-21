@@ -10,7 +10,7 @@ Import numpy module for calculation
 ### Step 2: 
 Initialize a variable 'A' as an array from the np module
 ### Step 3:
- Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix
 ### Step 4:
 End the program 
 ## Program:
@@ -25,7 +25,7 @@ print(rank)
 
 ```
 ## Output:
-![Output](./rank.png)
+![Output](./rank-1.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
